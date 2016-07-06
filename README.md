@@ -1,5 +1,5 @@
 # Hello Ruby Rails
-Workshop sobre os fundamentos de Ruby &amp; Rails oferecido pelo [Carlos Ribeiro]() & [Felipe Gentil]().
+Workshop sobre os fundamentos de Ruby &amp; Rails oferecido pelo [Carlos Ribeiro](https://github.com/duduribeiro) & [Felipe Gentil](https://github.com/fpgentil).
 
 ### Ementa:
 
@@ -38,4 +38,5 @@ Workshop sobre os fundamentos de Ruby &amp; Rails oferecido pelo [Carlos Ribeiro
 - Criação de uma aplicação do zero
 - Deploy Heroku
 
-## License: MIT
+## License: 
+MIT | Opensanca 2016
