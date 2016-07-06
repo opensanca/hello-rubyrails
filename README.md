@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Ruby_on_Rails_logo.jpg)
+![](http://blog.infolink.com.br/wp-content/uploads/rubyrails.png)
 
 # Hello Ruby Rails
 Workshop sobre os fundamentos de Ruby &amp; Rails oferecido pelo [Carlos Ribeiro](https://github.com/duduribeiro) & [Felipe Gentil](https://github.com/fpgentil).
